@@ -1,0 +1,53 @@
+/* width of window so it looks good on a half window */
+.grey-row {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(160, 157, 157);
+    box-sizing: border-box;
+    padding: 15px 20px;
+
+}
+.blue-box {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(71, 127, 231);
+    
+}
+.white-row {
+    height: 25vh;
+    width: 100vw;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 20px;
+}
+#text {
+text-align: center;
+color: rgb(95, 93, 93);
+
+}
+.blue-row {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(74, 113, 197);
+
+}
+.teal-row {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(91, 219, 219);
+    
+}
+
+.green-row {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(166, 228, 108);
+
+}
+
+.yellow-row {
+    height: 15vh;
+    width: 100vw;
+    background-color: rgb(224, 226, 74);
+
+}
